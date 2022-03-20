@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Started with fake store APi
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
