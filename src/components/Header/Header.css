@@ -1,0 +1,13 @@
+header{
+    background-color: rgb(2, 90, 108);
+    color: white;
+    min-height: 70px;
+}
+.logo a{
+    color: white;
+    text-decoration: none;
+}
+.menu a{
+    color: white;
+    text-decoration: none;
+}

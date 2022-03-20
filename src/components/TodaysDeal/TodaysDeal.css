@@ -1,0 +1,18 @@
+.deal-section{
+    background-color:rgba(2, 90, 108, 0.37) ;
+}
+.deal-btn{
+    padding: 10px;
+    font-weight: bolder;
+    background-color: unset;
+    box-shadow: 4px 2px 5px rgb(111, 216, 216);  
+    transition: all 0.8s; 
+}
+.deal-btn:hover{
+    box-shadow: 4px 4px 10px rgb(111, 216, 216);
+    background-color:rgba(2, 90, 108, 0.945)  ;
+    color: white;
+}
+.deal-img,.deal-text{
+    flex-basis: 50%;
+}
